@@ -1,6 +1,6 @@
-import ZurekImage from './zurek.jpg';
-import PierogiImage from './pierogi.jpg';
-import KompotImage from './kompot.jpg';
+import PancakeBananaImg from './pancake-banana.jpg';
+import PancakeBlueberryImg from './pancake-blueberry.jpg';
+import PancakeRaspberryImg from './pancake-raspberry.jpg';
 
 class MenuItem {
     constructor(name, price, image) {
@@ -10,9 +10,9 @@ class MenuItem {
     }
 }
 
-const pierogi = new MenuItem('Pierogi', '3 Euro', PierogiImage);
-const zurek = new MenuItem('Zurek', '3 Euro', ZurekImage);
-const kompot = new MenuItem('Kompot', '2 Euro', KompotImage);
+const pancakeBanana = new MenuItem('Pancake With Banana Topping', '3 Euro', PancakeBananaImg);
+const pancakeBlueberry = new MenuItem('Pancake With Blueberry Topping', '3 Euro', PancakeBlueberryImg);
+const pancakeRaspeberry = new MenuItem('Pancake With Raspberry Topping', '2 Euro', PancakeRaspberryImg);
 
-const menuItemsList = [pierogi, zurek, kompot];
+const menuItemsList = [pancakeBanana, pancakeBlueberry, pancakeRaspeberry];
 export {menuItemsList}

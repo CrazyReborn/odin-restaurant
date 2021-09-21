@@ -22,7 +22,6 @@ function navBar() {
         document.querySelector('#content').innerHTML = '';
         navBar();
         homePage();
-        
     })
     
     menu.addEventListener('click', e=> {
