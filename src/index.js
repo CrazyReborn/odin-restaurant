@@ -1,3 +1,4 @@
+import css from './style.css';
 import {homePage} from './home-page';
 import {menuItems} from './menu';
 import {contacts} from './contact';
