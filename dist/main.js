@@ -196,7 +196,7 @@ eval("module.exports = __webpack_require__.p + \"8f8f0bf63f3c92272a55.jpg\";\n\n
   \********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"5f90f7d1d1708ed8c249.jpg\";\n\n//# sourceURL=webpack://odin-restaurant/./src/pancake-banana.jpg?");
+eval("module.exports = __webpack_require__.p + \"329ca7d7e05207dc18f8.jpg\";\n\n//# sourceURL=webpack://odin-restaurant/./src/pancake-banana.jpg?");
 
 /***/ }),
 
@@ -206,7 +206,7 @@ eval("module.exports = __webpack_require__.p + \"5f90f7d1d1708ed8c249.jpg\";\n\n
   \***********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"23d8e9830a1e387fd7b6.jpg\";\n\n//# sourceURL=webpack://odin-restaurant/./src/pancake-blueberry.jpg?");
+eval("module.exports = __webpack_require__.p + \"6e8e1f35591496c344ed.jpg\";\n\n//# sourceURL=webpack://odin-restaurant/./src/pancake-blueberry.jpg?");
 
 /***/ }),
 
@@ -216,7 +216,7 @@ eval("module.exports = __webpack_require__.p + \"23d8e9830a1e387fd7b6.jpg\";\n\n
   \***********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"381b23abaa85f2775bf8.jpg\";\n\n//# sourceURL=webpack://odin-restaurant/./src/pancake-raspberry.jpg?");
+eval("module.exports = __webpack_require__.p + \"6a7d2bce01fa4badb239.jpg\";\n\n//# sourceURL=webpack://odin-restaurant/./src/pancake-raspberry.jpg?");
 
 /***/ })
 
