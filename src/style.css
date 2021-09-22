@@ -1,7 +1,10 @@
 #menu-item-image {
-    height: 180px;
+    height: auto;
     width: 180px;
-    border-radius: 50%;
+    border-radius: 25px;
+}
+#menu-item-image:hover {
+    opacity: 0.9;
 }
 .menu-item-container {
     display: flex;
